@@ -15,3 +15,6 @@ how its arranged.Then you have to select the position from where you wanna itter
  
 # link-dump
 The program is for gathering or dumping all the links are attached with any website. It show all the links are in the website entered.
+
+# json-url
+This is a program all about linking any data (in json format) with url. The program is used to featch the data fro mthe url & json file together.
