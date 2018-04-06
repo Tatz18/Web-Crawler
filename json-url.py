@@ -3,7 +3,7 @@ import urllib.parse as up
 import json
 
 # for manually input the url json_url = input("Enter the url >>> ")
-json_url = "https://python-data"
+json_url = "https://python-data.dr-chuk.net/comments_22962.json"  # url for the data(in json)
 
 print('Retrieving ', json_url)
 data = ur.urlopen(json_url).read().decode("utf-8")
